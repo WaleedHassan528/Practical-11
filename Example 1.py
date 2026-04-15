@@ -1,4 +1,4 @@
-def greet(name):
+def greet(Name):
  """This function greets the person passed in as parameter"""
 
 
